@@ -81,7 +81,7 @@ Transactional Event Queues(TEQ) samples to create queues using different payload
     <copy> curl http://localhost:8081/oracleAQ/pubSubTEQ </copy>
     ```
 
-    You can view the source code for this lab [here.](https://github.com/oracle/microservices-datadriven/tree/main/workshops/oracleAQ/aqJava/src/main/java/com/examples/enqueueDequeueTEQ/EnqueueDequeueTEQ.java)
+    You can view the source code for this lab [here.](https://github.com/oracle/microservices-datadriven/tree/main/workshops/oracleAQ/qJava/src/main/java/com/examples/enqueueDequeueTEQ/EnqueueDequeueTEQ.java)
 
 ## Task 5: Drop TEQ
 
